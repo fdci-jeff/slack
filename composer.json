@@ -1,0 +1,21 @@
+{
+    "name": "fdci/fdcislack",
+    "description": "This is slack Logging Notification",
+    "authors": [
+        {
+            "name": "FDCI",
+            "email": "fdci.jd@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Fdci\\Fdcislack\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}
